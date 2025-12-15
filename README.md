@@ -4,11 +4,11 @@ A machine learning application that predicts malaria prevalence across Lagos Sta
 
 ## Features
 
-- 🦟 Real-time malaria risk prediction
-- 🌍 Community-level geographic analysis
-- 🗺️ Interactive map visualization
-- 🌡️ Live environmental data fetching (temperature, rainfall, humidity, NDVI)
-- 📊 Risk categorization (Low, Moderate, High)
+- Real-time malaria risk prediction
+- Community-level geographic analysis
+- Interactive map visualization
+- Live environmental data fetching (temperature, rainfall, humidity, NDVI)
+- Risk categorization (Low, Moderate, High)
 
 ## How It Works
 
@@ -47,8 +47,9 @@ This is a predictive model and should be used alongside actual malaria surveilla
 ## Contact
 
 Built by [Bernard Muoneme]
-Connect: [linkedin.com/in/bernardmuoneme] |[bmuoneme@gmail.com]
+Connect:[linkedin.com/in/bernardmuoneme]|[bmuoneme@gmail.com]
 
 ## Acknowledgments
+
 
 Environmental data provided by Open-Meteo Archive API.
