@@ -48,10 +48,11 @@ This is a predictive model and should be used alongside actual malaria surveilla
 
 Built by [Bernard Muoneme]
 
-Connect:[www.linkedin.com/in/bernardmuoneme]|[bmuoneme@gmail.com]
+Connect:[LinkedIn]:[www.linkedin.com/in/bernardmuoneme] | or [mail]:[bmuoneme@gmail.com]
 
 ## Acknowledgments
 
 
 Environmental data provided by Open-Meteo Archive API.
+
 
